@@ -13,11 +13,7 @@ A set of info and help pages in markdown format.
 An external repository containing help/manual pages for the Swiss Federal Archives Minutes of the Federal
 council project [www.chgov.bar.admin.ch](https://www.chgov.bar.admin.ch).
 
-# Architecture and components
-
 # First steps
-
-## Preparations
 
 ## Install
 
@@ -31,7 +27,7 @@ folder "md". The IIIF viewer will render HTML code based on the markdown code.
 
 # License
 
-The MIT License (MIT), see [LICENSE](LICENSE)
+GNU Affero General Public License (AGPLv3), see [LICENSE](LICENSE)
 
 # Contribute
 
