@@ -27,4 +27,4 @@ Unter folgendem Einstiegspunkt können Daten in strukturierter Form heruntergela
 
 [https://api.chgov.bar.admin.ch/manifests/root.json](https://api.chgov.bar.admin.ch/manifests/root.json)
 
-Siehe für die technische Spezifikation: Link auf github
+Siehe für die technische Spezifikation: [https://github.com/SwissFederalArchives/chgov-brprotokolle#data-access](https://github.com/SwissFederalArchives/chgov-brprotokolle#data-access)
