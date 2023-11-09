@@ -10,6 +10,8 @@ L’axe chronologique vous permet de restreindre votre recherche à une période
 
 La recherche approximative prend en compte aussi des mots similaires aux mots-clés.
 
+La recherche dans les marginalia vous permet de focaliser la recherche dans les procès-verbaux manuscrits sur le titre / l'objet des décisions.
+
 Vous pouvez également utiliser les options de recherche avancée suivantes:
 
 - Recherche d’une expression (mot ou phrase) exacte en utilisant les guillemets\
