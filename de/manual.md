@@ -10,6 +10,8 @@ Mit dem Zeitstrahl können Sie die Suche auf einen bestimmten Zeitraum eingrenze
 
 Die unscharfe Suche berücksichtigt auch ähnliche Schreibweisen der Suchbegriffe.
 
+Mit der Suche in den Marginalien können Sie die Suche in den handschriftlichen Protokollen auf den Titel / Betreff der Beschlüsse fokussieren.
+
 Für fortgeschrittene Abfragen stehen Ihnen weitere Optionen zur Verfügung:
 
 - Term- und Phrasensuche ("wort" "das ist eine Phrase")\

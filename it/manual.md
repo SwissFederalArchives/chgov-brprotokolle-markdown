@@ -10,6 +10,8 @@ L’asse cronologico permette di restringere la ricerca a un determinato periodo
 
 La ricerca fuzzy considera anche le parole che hanno una grafia simile ai termini immessi.
 
+È possibile utilizzare la ricerca nei marginalia per focalizzare la ricerca nei verbali manoscritti sul titolo / oggetto delle decisioni.
+
 Per la ricerca avanzata sono disponibili più opzioni:
 
 - Ricerca di parole, espressioni e frasi («parola» «questa è una frase»)\

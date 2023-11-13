@@ -10,6 +10,8 @@ You can use the timeline to narrow your search down to a specific period.
 
 The fuzzy search also takes into account similar spellings of the search terms.
 
+You can use the search in the marginalia to focus the search in the handwritten minutes on the title / subject of the decisions.
+
 There are a range of further options for advanced searches:
 
 - Term and phrase search (“word”; “this is a phrase”)\
