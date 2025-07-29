@@ -1,15 +1,15 @@
 # Information
 
-Die Seite Protokolle des Bundesrates (1848-1973) erlaubt die Volltextsuche über die handschriftlichen Protokolle 1848-1903 und die maschinengeschriebenen Protokolle bis 1973.
+Die Seite Protokolle des Bundesrates (1848-1974) erlaubt die Volltextsuche über die handschriftlichen Protokolle 1848-1903 und die maschinengeschriebenen Protokolle bis 1974.
 
 Korrekturfunktion:  
 Die Texterkennung der handschriftlichen Protokolle beruht auf den neuesten KI-gestützten Verfahren. Sind Sie dennoch auf Texterkennungsfehler gestossen? Im OCR-Text können Sie uns einfach per Knopfdruck einen Korrekturvorschlag senden. Damit helfen Sie uns, das KI-Verfahren und den OCR-Text zu verbessern.
 
-Wir empfehlen, für die Konsultation der Bundesratsprotokolle einen Laptop oder ein Tablet zu verwenden. Die Nutzung mittels Smartphone ist aber möglich. Die Seite Protokolle des Bundesrates (1848-1973) ist barrierefrei.
+Wir empfehlen, für die Konsultation der Bundesratsprotokolle einen Laptop oder ein Tablet zu verwenden. Die Nutzung mittels Smartphone ist aber möglich. Die Seite Protokolle des Bundesrates (1848-1974) ist barrierefrei.
 
 ## Daten
 
-Die Seite Protokolle des Bundesrates (1848-1973) umfasst über 14’500 Beschlussprotokolle. Sie vereint die handschriftlichen Protokolle von 1848 bis 1903 und die maschinengeschriebenen Protokolle von 1904 bis 1973.
+Die Seite Protokolle des Bundesrates (1848-1974) umfasst über 14’500 Beschlussprotokolle. Sie vereint die handschriftlichen Protokolle von 1848 bis 1903 und die maschinengeschriebenen Protokolle von 1904 bis 1974.
 
 ## Handschriftliche Beschlussprotokolle (1848-1903)
 
@@ -17,7 +17,7 @@ Der Text von gut 8’000 handschriftlichen Protokollen wurden in Kooperation mit
 
 Die maschinelle Erkennung von historischen Handschriften ist komplex. Je nach Handschrift und Sprache ist die Qualität unterschiedlich. Die Fehlerquote bei den handschriftlichen Protokollen bewegt sich im Bereich von 0.498% und 6.511% Zeichenfehlern. Im Durchschnitt liegt die Fehlerquote bei 3.35%.
 
-## Maschinengeschriebene Beschlussprotokolle (1904-1973)
+## Maschinengeschriebene Beschlussprotokolle (1904-1974)
 
 Auch der ausgelesene Text der maschinengeschriebenen Beschlussprotokolle weist Texterkennungsfehler auf. Die Fehlerquote liegt jedoch generell tiefer als bei den handgeschriebenen Protokollen.
 
